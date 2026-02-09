@@ -46,7 +46,7 @@ const clues = {
     22:"5th or Park (abbr.)",
     23: "What RSVPs are asked for",
     26: "You always have so many of these girlies in your groups (abbr.)",
-    27: "Silly shoes",
+    27: "Silly shoe",
     28: "Happy kitty"
   },
   down: {
